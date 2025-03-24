@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "resources.h"
+#include "score.h"
+#include <windows.h>
+#include <mmsystem.h>
+
+void vsMode()
+{
+	int num;
+	printf("[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]");
+	scanf("%d", &num);
+}
